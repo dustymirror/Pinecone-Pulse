@@ -27,6 +27,9 @@
 -  **Reset function** – short‑press B1 to reset both CV1 and CV4 to their first modules after the current module finishes.  
 ---
 
+<img width="922" height="666" alt="cvtable" src="https://github.com/user-attachments/assets/2fb85714-742e-4638-834e-6bf57d6e61f4" />
+
+
 ## Hardware Requirements
 
 - [EuroPi](https://github.com/Allen-Synthesis/EuroPi) (Raspberry Pi Pico based)  
