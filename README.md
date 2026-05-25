@@ -101,6 +101,6 @@ The module uses the classic Fibonacci numbers:
 - **Complex percussive loops** – send CV2 (quarter notes) to a hi‑hat, CV5 (every 3 beats) to a snare, and CV6 (every 5 beats) to a kick.  
 - **Reset multiple sequencers** – route CV1 to the reset input of two different sequencers; they will restart each time a new Fibonacci module begins.  
 - **Evolving melodic sequence** – use CV1 to trigger an envelope that advances a pitch sequencer; the irregular module lengths create ever‑changing phrase lengths.  
-- **Ping‑pong modulation** – use CV4 (reverse‑track triggers) to modulate filter cut‑off or VCA, creating a mirrored effect of the main rhythm.
+- **Ping‑pong modulation** – use CV4 (reverse‑track triggers) with ADSR to modulate filter cut‑off or VCA, creating a mirrored effect of the main rhythm.
 
-Happy Pulsing 🐚 ⏱️ 🐚 ⏱️ 🐚 ⏱️ ⏱️  🐚 ⏱️ ⏱️ ⏱️ ⏱️  🐚 ⏱️ ⏱️ ⏱️ ⏱️ ⏱️ ⏱️ ⏱️ 🐚 
+Happy Pulsing 🐚 🐚 🐚 ⏱️ 🐚 ⏱️ ⏱️  🐚 ⏱️ ⏱️ ⏱️ ⏱️  🐚 ⏱️ ⏱️ ⏱️ ⏱️ ⏱️ ⏱️ ⏱️ 🐚 
