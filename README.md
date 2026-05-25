@@ -1,5 +1,5 @@
 **Fibonacci Rhythm Generator for EuroPi**  
-*Version 0.30 – DustyMirror2026*
+*DustyMirror2026*
 
 ![Version](https://img.shields.io/badge/version-0.35-blue)
 ![EuroPi](https://img.shields.io/badge/EuroPi-compatible-green)
